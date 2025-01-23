@@ -1,0 +1,11 @@
+venv/
+new_venv/
+*.h5
+*.zip
+*.tar.gz
+*.pyc
+__pycache__/
+*.git/
+new_venv/
+model_05.keras
+model_05.zip

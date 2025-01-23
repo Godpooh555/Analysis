@@ -1,0 +1,6 @@
+gradio
+tensorflow-cpu
+Pillow
+numpy
+requests
+gunicorn
